@@ -1,2 +1,2 @@
 # REST_API_PROJECT
-Create Rest-api with node.js
+Create Rest-api-shop with node.js
